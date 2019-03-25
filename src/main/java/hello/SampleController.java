@@ -47,7 +47,7 @@ public class SampleController {
                 totalPrice += calcTotalPrice(1000, 1);
                 userMoney = calcUserMoney(userMoney, totalPrice);
             }
-            else if (button == 2) {
+            else if (button == 2) { //gildo
                 totalPrice += calcTotalPrice(1500, 1);
                 userMoney = calcUserMoney(userMoney, totalPrice);
             }
